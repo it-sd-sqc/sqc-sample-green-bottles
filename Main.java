@@ -9,7 +9,7 @@ class Main {
         if (numBottles < 1) numBottles = 1;
       } catch (Exception e) {
         System.err.println("Expected an integer, not " + args[0]);
-        return; 
+        return;
       }
     }
 
@@ -18,6 +18,6 @@ class Main {
   }
 
   public static String greenBottles(int initialBottles) {
-    return "";
+    return "This should display the song verses.";
   }
 }
