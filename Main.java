@@ -18,6 +18,7 @@ class Main {
   }
 
   public static String greenBottles(int initialBottles) {
-    return "";
+
+    return "This should display the song verses";
   }
 }
